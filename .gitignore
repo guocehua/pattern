@@ -1,5 +1,8 @@
-git remote add origin git@github.com:guocehua/pattern.git.idea
+gen
 *.iml
 out
 .gradle
 build
+src/main/java/builderpattern/
+src/main/resources/
+src/test/
